@@ -44,7 +44,7 @@ This application allows users to enter grades and instantly get the average and 
 
 ## 🙌 Author
 
-Developed by **You 💻**
+Developed by **Harpreet Kaur**
 
 ---
 
